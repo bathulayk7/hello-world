@@ -1,8 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+export function App() {
   return (
     <div className="App">
       <h1>Hello Welcome to Reactjs</h1>
